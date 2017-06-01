@@ -32,7 +32,7 @@ Jasiel Bacilio Cebada 4F
   
   <!-- <plugin name"cordova-plugin-inappbrowser" spec="~1.7.0"/> -->
   
-  < <plugin name="cordova-plugin-geolocation" source="npm"/>
+   <plugin name="cordova-plugin-geolocation" source="npm"/>
 	<!--Third part plugins-->
 	
 	<!--Para accesar a paginas en internet-->
